@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">ThirtyDaysApp</string>
+
+    <string name="tip_1_title">Deep Breathing</string>
+    <string name="tip_1_description">Practice 4-7-8 breathing: inhale for 4 seconds, hold for 7, exhale for 8. This activates your parasympathetic nervous system and slows your heart rate.</string>
+
+    <string name="tip_2_title">Morning Stretch</string>
+    <string name="tip_2_description">Spend 10 minutes stretching before starting your day to loosen tight muscles and wake up your body gently.</string>
+
+    <string name="tip_3_title">Gratitude Journal</string>
+    <string name="tip_3_description">Write down three things you\'re grateful for today. Focusing on the positive shifts your mindset away from stress.</string>
+
+    <string name="tip_4_title">Digital Detox Hour</string>
+    <string name="tip_4_description">Put your phone away for one hour before bed. The blue light and notifications keep your mind wired when it should be winding down.</string>
+
+    <string name="tip_5_title">Nature Walk</string>
+    <string name="tip_5_description">Take a 20-minute walk outside, phone-free. Time in nature has been shown to lower cortisol levels.</string>
+
+    <string name="tip_6_title">Progressive Muscle Relaxation</string>
+    <string name="tip_6_description">Tense and release each muscle group, head to toe. This technique helps you notice and release physical tension.</string>
+
+    <string name="tip_7_title">Herbal Tea Break</string>
+    <string name="tip_7_description">Sip chamomile or lavender tea slowly, without multitasking. Let it be a small ritual of stillness.</string>
+
+    <string name="tip_8_title">Declutter One Space</string>
+    <string name="tip_8_description">Tidy a single drawer, desk, or shelf. A small win in your environment can ease mental clutter too.</string>
+
+    <string name="tip_9_title">Calming Music</string>
+    <string name="tip_9_description">Put on an instrumental playlist for 15 minutes and just listen, without doing anything else.</string>
+
+    <string name="tip_10_title">Guided Meditation</string>
+    <string name="tip_10_description">Try a 10-minute guided meditation. Following a voice can make it easier to quiet a busy mind.</string>
+
+    <string name="tip_11_title">Journaling</string>
+    <string name="tip_11_description">Write freely for 5 minutes about how you\'re feeling, without worrying about grammar or structure.</string>
+
+    <string name="tip_12_title">Warm Bath or Shower</string>
+    <string name="tip_12_description">Take a slow, unhurried bath or shower. Warm water can relax muscles and calm the nervous system.</string>
+
+    <string name="tip_13_title">Say No to One Thing</string>
+    <string name="tip_13_description">Decline a commitment that\'s adding stress to your plate. Protecting your time is protecting your peace.</string>
+
+    <string name="tip_14_title">Neck and Shoulder Stretch</string>
+    <string name="tip_14_description">Release tension built up from screen time with gentle neck rolls and shoulder shrugs.</string>
+
+    <string name="tip_15_title">Call a Friend</string>
+    <string name="tip_15_description">Have a real conversation, not just a text exchange. Connection is one of the fastest stress relievers.</string>
+
+    <string name="tip_16_title">Unplug from Social Media</string>
+    <string name="tip_16_description">Take a full day off from scrolling. Notice how your mood shifts without the constant comparison.</string>
+
+    <string name="tip_17_title">Aromatherapy</string>
+    <string name="tip_17_description">Use a diffuser with lavender or eucalyptus oil. Scent is directly linked to the brain\'s emotional centers.</string>
+
+    <string name="tip_18_title">Do a Puzzle</string>
+    <string name="tip_18_description">Spend time on a jigsaw puzzle or crossword. Focused, low-stakes tasks can quiet racing thoughts.</string>
+
+    <string name="tip_19_title">Mindful Eating</string>
+    <string name="tip_19_description">Eat one meal slowly, without screens. Pay attention to taste, texture, and how your body feels.</string>
+
+    <string name="tip_20_title">Power Nap</string>
+    <string name="tip_20_description">Rest for 15–20 minutes in the afternoon. A short nap can reset your mood and energy.</string>
+
+    <string name="tip_21_title">Watch the Sunset</string>
+    <string name="tip_21_description">Step outside and just observe. Give yourself a few minutes with no goal but to watch the sky change.</string>
+
+    <string name="tip_22_title">Body Scan Meditation</string>
+    <string name="tip_22_description">Notice tension throughout your body, starting from your toes and working up to your head.</string>
+
+    <string name="tip_23_title">Write a Letter You Won\'t Send</string>
+    <string name="tip_23_description">Get frustrations out on paper. Sometimes just naming a feeling loosens its grip.</string>
+
+    <string name="tip_24_title">Try Yoga</string>
+    <string name="tip_24_description">Follow a beginner 15-minute yoga video. Movement paired with breath can quiet a busy mind.</string>
+
+    <string name="tip_25_title">Organize Your To-Do List</string>
+    <string name="tip_25_description">Break big tasks into smaller, manageable ones. A clear plan reduces the mental weight of everything undone.</string>
+
+    <string name="tip_26_title">Spend Time with a Pet</string>
+    <string name="tip_26_description">Petting an animal has been shown to lower cortisol and blood pressure in just a few minutes.</string>
+
+    <string name="tip_27_title">Laugh on Purpose</string>
+    <string name="tip_27_description">Watch a comedy clip or call a funny friend. Laughter is a genuine, fast-acting stress reliever.</string>
+
+    <string name="tip_28_title">Affirmations</string>
+    <string name="tip_28_description">Repeat a few calming phrases to yourself, like \"I am doing enough\" or \"This moment will pass.\"</string>
+
+    <string name="tip_29_title">Box Breathing</string>
+    <string name="tip_29_description">Inhale, hold, exhale, hold — each for 4 seconds. A simple pattern that\'s easy to remember under stress.</string>
+
+    <string name="tip_30_title">Reflect on Your Progress</string>
+    <string name="tip_30_description">Look back at how far you\'ve come this month. Give yourself credit for showing up for your own wellbeing.</string>
+</resources>
